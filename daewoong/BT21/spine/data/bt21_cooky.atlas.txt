@@ -1,0 +1,272 @@
+
+bt21_cooky.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/armR1_F
+  rotate: false
+  xy: 93, 129
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+images/armR2_F
+  rotate: true
+  xy: 2, 105
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+images/belt1
+  rotate: false
+  xy: 2, 296
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+images/body1_F
+  rotate: true
+  xy: 78, 280
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+images/dumbbell_F
+  rotate: false
+  xy: 2, 240
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+images/earL1_F
+  rotate: 180
+  xy: 53, 172
+  size: 47, 45
+  orig: 47, 46
+  offset: 0, 1
+  index: -1
+images/earL2_F
+  rotate: true
+  xy: 46, 128
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+images/earR1_F
+  rotate: false
+  xy: 78, 213
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+images/earR2_F
+  rotate: true
+  xy: 38, 61
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+images/eye1_F 
+  rotate: false
+  xy: 2, 3
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/eye2_F
+  rotate: false
+  xy: 118, 400
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+images/eye3_F
+  rotate: true
+  xy: 125, 213
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+images/eye4_F
+  rotate: false
+  xy: 118, 419
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+images/eyeblowL1_F
+  rotate: false
+  xy: 27, 4
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+images/eyeblowR1_F
+  rotate: true
+  xy: 118, 378
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+images/footL1_F
+  rotate: false
+  xy: 2, 43
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+images/footL2_F
+  rotate: false
+  xy: 89, 93
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+images/gloveR1
+  rotate: true
+  xy: 2, 146
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+images/gloveR2
+  rotate: false
+  xy: 2, 189
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+images/head1_F
+  rotate: false
+  xy: 2, 378
+  size: 114, 90
+  orig: 114, 90
+  offset: 0, 0
+  index: -1
+images/hendR3_F
+  rotate: false
+  xy: 2, 68
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+images/legL1_F
+  rotate: false
+  xy: 38, 36
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+images/legL2_F
+  rotate: false
+  xy: 2, 15
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+images/legL3_F
+  rotate: false
+  xy: 51, 84
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+images/mouth1_F
+  rotate: true
+  xy: 93, 9
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+images/mouth2_F
+  rotate: true
+  xy: 118, 438
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+images/mouth3_F
+  rotate: true
+  xy: 119, 345
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+images/mouth4_F
+  rotate: true
+  xy: 67, 9
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+images/mouth5_F
+  rotate: true
+  xy: 36, 11
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+images/mouth6_F
+  rotate: false
+  xy: 121, 59
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+images/mouth7_F
+  rotate: true
+  xy: 107, 8
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+images/nose1_F
+  rotate: false
+  xy: 16, 6
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+images/shade
+  rotate: false
+  xy: 101, 179
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/shadow
+  rotate: false
+  xy: 2, 345
+  size: 115, 31
+  orig: 115, 31
+  offset: 0, 0
+  index: -1
+images/shoesfootL1
+  rotate: true
+  xy: 109, 21
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+images/shoeslegL1
+  rotate: false
+  xy: 74, 34
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+images/tail
+  rotate: false
+  xy: 87, 59
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/wrinkles_F
+  rotate: false
+  xy: 126, 8
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
